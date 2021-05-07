@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7iWnDloaXI8rvEpOTEVze992iz6GnLuDaX41sT4NfzcZNKJ5siUlLOg+0NVH1kW6NsyuQ9wzWIi8UrEd0G+ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tholu\\Downloads\\Donatekart_Assignment-20210507T072311Z-001\\Donatekart_Assignment\\Donatekart_Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tholu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

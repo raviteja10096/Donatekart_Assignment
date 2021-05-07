@@ -1,0 +1,6 @@
+Framework used: .Net core 3.1 framework.
+
+APIs:
+campaigns - Fetchs the campaigns data(Total Amount, BackersCount and End Date) and sort them by Total Amount in descending order
+activecampaigns - Fetchs the active campaigns data(with all fields) 
+closedcampaigns - Fetchs the closedcampaigns data(with all fields) 
